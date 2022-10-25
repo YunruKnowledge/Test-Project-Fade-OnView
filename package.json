@@ -1,0 +1,22 @@
+{
+  "name": "project-novel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunruKnowledge/Project-Novel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YunruKnowledge/Project-Novel/issues"
+  },
+  "homepage": "https://github.com/YunruKnowledge/Project-Novel#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
