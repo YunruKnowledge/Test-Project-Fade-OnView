@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "sass": "sass --watch sass/style.sass public/css/style.css",
+    "sass": "sass --watch src/index.sass public/css/index.css",
     "launch": "nodemon app.js",
     "dev": "concurrently --kill-others \"npm run sass\" \"npm run launch\"",
     "lint": "eslint"
