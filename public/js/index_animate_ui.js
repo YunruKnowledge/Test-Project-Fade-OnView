@@ -2,11 +2,6 @@
 
 
 
-const test = document.querySelector(".das");
-console.log(test);
-test.innerHTML = "Hewo Worrld";
-
-
 // Observe logic
 const obsrv = new IntersectionObserver((ent)=>{
     ent.forEach((ent)=>{
